@@ -1,0 +1,17 @@
+option cc_generic_services = true; 
+
+message EchoRequest
+{
+  required string res_msg = 1;
+};
+
+message EchoResponse
+{
+  required string resp_msg = 1;
+};
+
+service EchoService
+{
+  rpc Echo(EchoRequest) returns (EchoResponse);
+};
+
