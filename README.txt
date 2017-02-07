@@ -1,4 +1,4 @@
-Ò»Ğ©testµÄ´úÂë
+ï»¿ä¸€äº›testçš„ä»£ç 
 1 easy_server
-  ¼òµ¥µÄprotobufRpcµÄc++ÊµÏÖ.make±àÒë
+  ç®€å•çš„protobufRpcçš„c++å®ç°.makeç¼–è¯‘
   
